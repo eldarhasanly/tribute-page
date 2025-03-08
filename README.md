@@ -1,1 +1,2 @@
-# tribute-page
+# Tribute Page
+This repository contains the implementation of a web page design as part of an assignment from [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page). This tribute page is dedicated to the memory of great Azerbaijani mathematician and computer scientist Lotfi Zadeh. The task involves recreating a provided design using HTML and CSS, focusing on accuracy and responsiveness.
